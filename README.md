@@ -1,3 +1,2 @@
 # noahFoam.github.io
-My own github blog
-Powered by Hexo
+My own github blog,powered by Hexo.
