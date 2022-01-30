@@ -2,18 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2022/01/06/paraview-on-server/</loc>
-    
-    <lastmod>2022-01-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://example.com/2022/01/05/marpit/</loc>
     
-    <lastmod>2022-01-08</lastmod>
+    <lastmod>2022-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +13,16 @@
   <url>
     <loc>http://example.com/2021/12/19/openfoam-v9-installation-server/</loc>
     
-    <lastmod>2022-01-06</lastmod>
+    <lastmod>2022-01-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/2022/01/06/paraview-on-server/</loc>
+    
+    <lastmod>2022-01-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -56,6 +56,27 @@
 
   
   <url>
+    <loc>http://example.com/tags/PPT/</loc>
+    <lastmod>2022-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Markdown/</loc>
+    <lastmod>2022-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Marpit/</loc>
+    <lastmod>2022-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://example.com/tags/OpenFOAM-v9/</loc>
     <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
@@ -78,27 +99,6 @@
   
   <url>
     <loc>http://example.com/tags/Paraview/</loc>
-    <lastmod>2022-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/PPT/</loc>
-    <lastmod>2022-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Markdown/</loc>
-    <lastmod>2022-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Marpit/</loc>
     <lastmod>2022-01-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
